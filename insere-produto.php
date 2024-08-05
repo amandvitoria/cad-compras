@@ -7,7 +7,7 @@ $nome_produto   = $_POST['nome'];
 $descricao  = $_POST['descricao'];
 $estoque  = $_POST['estoque'];
 $preco  = $_POST['preco'];
- 
+   
 $grava_produto = "INSERT INTO produtos(IDCATEGORIA, IDMARCA, NOME, DESCRICAO, ESTOQUE, PRECO) VALUES ('$categoria','$marca','$nome_produto','$descricao','$estoque','$preco')";
  
 $result_gravacao = mysqli_query($mysqli, $grava_produto);
