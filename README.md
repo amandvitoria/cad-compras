@@ -43,4 +43,4 @@ Se houver um erro, o script é encerrado com a mensagem 'Connect Error'.
 ## Funsonalidades
 Este projeto tem como primeira funcionalidade a opição de cadastrar o produto onde o usuario preenchera os campos de acordo com o produto e marca preço e logo apos ele enviara uma mensagem falando cadastrado com sucesso e ira para o banco de dados.
 
-![gif](imgs/)
+![gif](img/gif.gif)
