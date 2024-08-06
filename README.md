@@ -33,7 +33,7 @@ include_once('controller/conexao.php'); busca e inclui o arquivo conexao.php loc
 include('arquivo.php'); busca e inclui o conteúdo do arquivo arquivo.php no ponto onde a função include é chamada.Se o arquivo especificado não puder ser incluído (por exemplo, se ele não existir ou houver um erro de permissão), o PHP gera um aviso (warning), mas continua a execução do script.
 
 if ($mysqli->connect_error)
-# die ('Connect Error');
+* die ('Connect Error');
 * isto esta no arquivo conexão.php
 Este código PHP estabelece uma conexão com um banco de dados MySQL
 Esta condição verifica se houve algum erro ao tentar conectar ao banco de dados.
