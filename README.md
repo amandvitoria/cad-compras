@@ -40,7 +40,28 @@ Esta condição verifica se houve algum erro ao tentar conectar ao banco de dado
 connect_error contém a descrição do erro se houver falha na conexão.
 Se houver um erro, o script é encerrado com a mensagem 'Connect Error'.
 
-## Funsonalidades
-Este projeto tem como primeira funcionalidade a opição de cadastrar o produto onde o usuario preenchera os campos de acordo com o produto e marca preço e logo apos ele enviara uma mensagem falando cadastrado com sucesso e ira para o banco de dados.
+## Funcionalidades
+
+### Cadastro de produtos
+
+Este projeto tem como primeira funcionalidade a opção de cadastrar o produto onde o usuario preenchera os campos de acordo com o produto e marca preço e logo após isso será enviada uma mensagem iformando que o produto foi cadastrado com sucesso e ira salvar no banco de dados.
 
 ![gif](img/gif.gif)
+
+## Carrinho
+![gif](img/carrinho.gif)
+
+## Cadastro de categoria e marca
+
+![gif](img/categoria-marca.gif)
+
+## Aprendizados
+
+Para ajudar na criação do MVP exigido pelo projeto de TCC do 3º ano, o orientador colaborou na construção de um site de compras com um banco de dados mais avançado do que os previamente desenvolvidos em aula, utilizando novos métodos em PHP. O principal aprendizado foi a aplicação independente desses métodos no site em construção.
+
+## Autores
+
+Amanda Vitória
+
+Orientador Leonardo Rocha
+
